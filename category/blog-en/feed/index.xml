@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Blog &#8211; MCM Group</title>
+	<atom:link href="/category/blog-en/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Fri, 08 Sep 2023 15:40:37 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>/wp-content/uploads/2023/05/Neutro-Elegante-Semplice-Marchio-Personale-Logo-2-150x150.jpg</url>
+	<title>Blog &#8211; MCM Group</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>PREDICTIVE MAINTENANCE ON CLOUD MINDSPHERE</title>
+		<link>/predictive-maintenance-on-cloud-mindsphere/</link>
+					<comments>/predictive-maintenance-on-cloud-mindsphere/#respond</comments>
+		
+		<dc:creator><![CDATA[Annalisa Di Maria]]></dc:creator>
+		<pubDate>Mon, 08 May 2023 11:35:53 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<guid isPermaLink="false">/predictive-maintenance-on-cloud-mindsphere/</guid>
+
+					<description><![CDATA[On the occasion of the BI-MU fair in Milan, MCE presented a new and interesting application, concerning Predictive Maintenance on Cloud MindSphere, developed on the cloud platform in collaboration with the 40Factory company. PREDICTIVE MAINTENANCE ON CLOUD MINDSPHERE: ]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="3410" class="elementor elementor-3410 elementor-139" data-elementor-post-type="post">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-5126591d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5126591d" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-14fea0ed" data-id="14fea0ed" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-44ba37a2 elementor-widget elementor-widget-text-editor" data-id="44ba37a2" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.16.0 - 14-09-2023 */
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#69727d;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#69727d;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<p>
+
+
+
+</p>
+<h2>PREDICTIVE MAINTENANCE ON CLOUD MINDSPHERE:</h2>
+<p>
+
+</p>
+<p style="text-align: justify;">For some years now MCM and its Engineering MCE section have embarked on a research and development path in the field of predictive maintenance, which is bringing interesting and important results. After an initial phase of study, a series of modules and applications have been created which constitute a now complete solution. </p>
+<p style="text-align: justify;">In principle, the modules for interfacing with the machines were developed, responsible for the acquisition of high frequency data. In this case, the approach was to group the data from multiple sensors to obtain a compact and realistic image of the condition of the component or controlled group. Once the data had been acquired, data fusion and sensory data analysis algorithms were developed, also in collaboration with research institutes, to try to predict the wear trends of mechanical components, before failures and therefore episodes of stopping of machines. Finally, applications have been created that implement the management of the service and the display of results, allowing users to always have under control the updated status of the machine and their monitored components.   </p>
+<p style="text-align: justify;">The developed application is located in this last area. The module shows the current operating status of the machine and the health status of all controlled components, updated in real time.</p>
+<p style="text-align: justify;">The application also provides tools for analyzing historical data that allow you to easily identify possible anomalies and go into detail in the deepening of specific situations detected.</p>
+<h2>DEVELOPEMENT SCOPE</h2>
+<p style="text-align: justify;">The software was developed in the cloud and in particular the MindSphere platform proposed by Siemens was chosen. After some experience of direct development of applications on the cloud, the need was felt for the presence of an infrastructure that would guarantee reliability and good performance even in the presence of large volumes of data, as well as security on access management for users, in based on role and organization. Given the lack of knowledge of the MindSphere infrastructure, MCE decided to collaborate for development with the 40factory company which, despite being a young company, has gained a good knowledge of this infrastructure. The collaboration proved to be very positive as it was possible to share and compare the different experiences developed on cutting-edge technologies for the analysis and processing of data and for their presentation, through the creation of web based interfaces and views.   </p>
+<p style="text-align: justify;">The machines that MCM produces generally remain in service for more than twenty years and therefore wear is very slow, as is their replacement. A predictive maintenance system is therefore particularly convenient because it should allow users to exploit their means of production throughout their life cycle, keeping the episodes of failure and relative downtime contained, even in old age. Even though the predictive maintenance system has been in operation for a relatively short time, it is proving to be so efficient that MCM is convinced to equip all new machines produced with the data collection module (Flight Recorder). At the same time, we are also proceeding with the sensorization of the machines already in service, with perhaps a decade of work behind them and on which it is more interesting to detect the degradation and criticality of the components, when they actually approach the phase in which the probability that problems occur increases.   </p>
+<h2>FUTURE EXPECTATIONS</h2>
+<p style="text-align: justify;">The work carried out for the realization of this latest application will allow to support new proactive maintenance services and will bring advantages both to the final users of the plants and to the MCM manufacturer. Users will have the opportunity to see and manage their systems even remotely, with the security of data and access to the cloud guaranteed by the MindSphere platform. The manufacturer will have the possibility to access in real time all of its machines installed and distributed all over the planet. This will allow him to be much more effective in servicing interventions but also to collect significant data on the durability and reliability of the components that will allow him to build increasingly robust and reliable machines.   </p>
+<p>
+
+
+
+</p>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>/predictive-maintenance-on-cloud-mindsphere/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>MACHINE DATA MONITORING AND PREDICTIVE MAINTENANCE</title>
+		<link>/machine-data-monitoring-and-predictive-maintenance/</link>
+					<comments>/machine-data-monitoring-and-predictive-maintenance/#respond</comments>
+		
+		<dc:creator><![CDATA[digital@mcm-group.com]]></dc:creator>
+		<pubDate>Mon, 08 May 2023 09:27:32 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<guid isPermaLink="false">/machine-data-monitoring-and-predictive-maintenance/</guid>
+
+					<description><![CDATA[To complete the FMS plant management solution, MCM recently developed a new machine data monitoring and predictive maintenance system, composed of different sensors and the Edge jNODE FR device on which MCE, the group’s IT division, has implemented the jFRX software. for high frequency collection and aggregation of machine data.]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="3433" class="elementor elementor-3433 elementor-137" data-elementor-post-type="post">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-3c84cc1b elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="3c84cc1b" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-3b80e18f" data-id="3b80e18f" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-1f776c89 elementor-widget elementor-widget-text-editor" data-id="1f776c89" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>The product is the concrete result of a series of projects in which MCM has exploited a series of factors, such as the availability of a large amount of information present in its flexible production systems (FMS), the birth of low-cost and high-level devices services for data recording and processing (<em>edge computing</em>), the constant attitude of research and application of news in the world of technology and IT.</p>
+<p>The new <strong>jNODE FR</strong> monitoring system, equipped with <strong>jFRX</strong> software, integrates the MCM offer at the machine level which has long used the consolidated <strong>jFMX supervision software</strong> for cell (plant) and workshop (shopfloor) levels.</p>
+<p>The basic concept is to exploit the information already present in the machine and normally used for process control to enable new support services for the customer and the plant manufacturer.</p>
+<p>The key points of the solution are:</p>
+<ul>
+<li>High speed data acquisition from CNC</li>
+<li>Possible integration of information from external sensors</li>
+<li>Automatic routing to analysis levels</li>
+<li>“Big Data” management</li>
+<li>Integration with the plant supervisor</li>
+<li>Specific management of the different types of data</li>
+</ul>
+<p><br></p><p>The system collects a considerable amount of data using different components and the information that is acquired is extremely heterogeneous among them, for example data relating to positions and absorptions of the machine axes, energy consumption, vibratory phenomena both in the time and frequency domain and other sizes specific to the machine and customer.</p>
+<p>In addition to being used to perform local control loops, this information now travels from the machines to a cloud server, acquiring additional context data at the cell and workshop level, for example, the code of the piece being worked, the tool on the spindle, the name of the machine and plant, thus creating a solid basis for the creation of new services designed to improve the management of the process and the availability of the means of production.</p>
+<p>Specifically, a <strong>predictive maintenance</strong> system has been developed, with which each machine is systematically monitored. A first service collects the value of the signals relating to the normal operating actions of the main machine groups, such as the tool change, the pallet change, the block and outlet of the table while another service provides for the execution of test programs in the machine at intervals of preset time (fingerprint), recording the power absorbed when empty. Algorithms for comparing the data of the current operation with respect to the episodes acquired over time, provide indicators to <strong>highlight any anomalies of a component or of a machine group</strong>.  </p>
+<p>Another service under development is that relating to the <strong>monitoring of the manufacturing process</strong>. Also in this case, the collection of data concerning the use of tools in various contexts, represents a very interesting knowledge base for the user and will also serve for the development of even more advanced services for the <strong>optimization of tool management</strong>. </p>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>/machine-data-monitoring-and-predictive-maintenance/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>MCM EUROPEAN SHAREWORK PROJECT</title>
+		<link>/mcm-european-sharework-project/</link>
+					<comments>/mcm-european-sharework-project/#respond</comments>
+		
+		<dc:creator><![CDATA[digital@mcm-group.com]]></dc:creator>
+		<pubDate>Mon, 08 May 2023 09:27:32 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<guid isPermaLink="false">/mcm-european-sharework-project/</guid>
+
+					<description><![CDATA[The MCM European Sharework project will bring a new smart system to the market integrated by different software modules, with the aim of driving collaborative work between operators and robots without need for physical protection barriers, thereby boosting process productivity and improving the ergonomics of those workstations where it is implemented.]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="3435" class="elementor elementor-3435 elementor-136" data-elementor-post-type="post">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-53149af7 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="53149af7" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-5beffbb0" data-id="5beffbb0" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-42987550 elementor-widget elementor-widget-text-editor" data-id="42987550" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<figure class="wp-block-image size-full is-resized"><h4 style="text-align: center;"><em><strong>COOPERATION HUMANS VS ROBOTS</strong></em></h4><p>Specifically, Sharework, which stands for “Safe and effective HumAn-Robot coopEration toWards a better cOmpetiveness on cuRrent automation lacK manufacturing processes”, will establish a modular system designed to adjust collaborative robotics to each industrial process and to the workers themselves, and will also make it possible to adapt the robots currently installed in each plant to ensure more effective cooperation with humans. The development of the system also envisages the continuous study of human factors with the aim of adapting and improving user perception.</p><h4 style="text-align: center;"><em><strong> IMPLEMENTATION IN FOUR TYPES OF REAL INDUSTRIAL SCENARIOS</strong></em></h4><p>In this collaborative robotics growth scenario, Sharework will begin by applying human-robot collaboration in four types of real industrial scenarios in the automotive, railway, metal and capital goods manufacturing industries. To this end, it will develop modular software based on human-robot collaboration capable of flexibly and efficiently adapting to the required work, thanks to the robot’s perception of the environment through multiple sensors, smart data processing, augmented reality and gesture and speech recognition technology. It will also continuously evaluate work ergonomics and make suggestions for improving the worker’s posture.</p><h4 style="text-align: center;"><em><strong>MCM PARTNERSHIP</strong></em></h4><p>Sharework is being developed by a consortium of 15 partners from six different countries (Germany, Spain, France, Greece, Italy, Luxembourg) that encompasses six research institutions (Eurecat, LMS, FRAUNHOFER, CNR, TUDA, RWTH); eight industrial partners, of which three are SMEs (STRANE-France, STAM-Italy, GOIZPER-Spain); and five large companies (ASLTOM-Spain, CEMBRE-Italy, NISSAN-Spain, INTRASOFT-Luxembourg, MCM-Italy), in addition to a standardising organisation (UNE-Spain).</p></figure>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>/mcm-european-sharework-project/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>NETWORK PART PROGRAM (NPP) ANNIVERSARY</title>
+		<link>/network-part-program-npp-anniversary/</link>
+					<comments>/network-part-program-npp-anniversary/#respond</comments>
+		
+		<dc:creator><![CDATA[digital@mcm-group.com]]></dc:creator>
+		<pubDate>Mon, 08 May 2023 09:27:32 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<guid isPermaLink="false">/network-part-program-npp-anniversary/</guid>
+
+					<description><![CDATA[On the occasion of the 15 years since the first installation of the Network Part Program (NPP) module, we make a brief history of the functionality that represented a real revolution in the execution and management of the machining of the pieces, performed on numerically controlled work centers.]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="3414" class="elementor elementor-3414 elementor-138" data-elementor-post-type="post">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-89332b3 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="89332b3" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-17ed8de4" data-id="17ed8de4" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-5a1658c5 elementor-widget elementor-widget-text-editor" data-id="5a1658c5" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							
+<h2 style="text-align: center;"><strong>THE IDEA OF NETWORK PART PROGRAM (NPP)</strong></h2>
+<p>The original idea was born in a European research project and the starting point was to observe that the writing language of part programs executed by CNCs (ISO 6983) obliges the programmer to rigidly fix the sequence of use of the tools, while in reality many operations are independent from each other. This paved the way for the development of an application capable of analyzing the different programs, combined with the pieces mounted on a fixture and dynamically generating a single program, to work the entire pallet, optimized with the minimum number of tool changes, table rotation and rapid movements. </p>
+<h2 style="text-align: center;"><strong>NETWORK PART PROGRAM (NPP) FUNCTIONALITY</strong></h2>
+<p>The Network Part Program (NPP) was therefore created to allow the user to create and execute programs, structured in the form of a network of elementary steps (steps). Each machining step groups geometric information related to the process characteristic and technological data. The steps are organized in a network that expresses the precedence constraints between them, due to technological reasons or to process preferences.  </p>
+<p> </p>
+<h2 style="text-align: center;"><strong>BENEFITS OF NETWORK PART PROGRAM (NPP)</strong></h2>
+<p>The advantages obtained are considerable:</p>
+<p> </p>
+<ul>
+<li>Simplification of the pallet configuration with sets of pieces also different from each other. The programmer limits himself to developing a program for each different piece mounted on the pallet and to insert the origin of the piece with respect to the center of the table </li>
+<li>Machining a subset of the configured pieces on a pallet, leaving the operator the simple possibility of marking the pieces present and absent. It is no longer necessary to enter jumps in programs or let the machine work in a vacuum </li>
+<li>Execute portions of a machining, explicitly selecting the steps to be carried out, without having to manipulate the ISO code .</li>
+<li>Resume an interrupted machining from the point at which it stopped or from a previous point, simply by specifying the resume step. Once programmed, the shooting takes place in complete safety, completely automatically, without the presence of the operator </li>
+<li>Simplification and reduction of piece testing time, especially for pallets that mount replicas of pieces</li>
+<li>Remote monitoring and understanding of machine execution even by non-programming personnel</li>
+<li>Reuse of steps (elementary operations of a tool) in programs, even in different contexts</li>
+</ul>
+<h2 style="text-align: center;"><strong>OPERATION PROCESS</strong></h2>
+<p>The NPP module is fully integrated with the jFMX plant supervisor, which has an editor for the work cycles and an executor of programs in NPP format. At each processing, the system automatically performs the following activities: </p>
+<p> </p>
+<ul>
+<li>Creation of a dynamic network based on the information of the work cycles and the selection of the pieces actually assembled, carried out by the operator at the loading / unloading station</li>
+<li>Optimization of the network associated with the pallet. When jFMX decides that the pallet must be executed by a machine of the plant, it launches an optimization process, generating a single sequence of steps, obtained by minimizing the number of tool changes, table rotations, rapid movements and laser checks. The sequence is dynamically re-evaluated if a step is not executable, for example if the tool recalled is not available at that time  </li>
+<li>Step by step execution of the sequence. The program of the entire pallet is never sent to the machine, but only the ISO portion necessary to perform the current step and for speed reasons, the next one. This greatly facilitates the possible intervention of the operators for the verification and modification of the program, which only the section of the code in execution is found in the NC memory.  </li>
+</ul>
+<p> </p>
+<p>Through this accurate control of the execution, jFMX is able to show the user the real-time status of the processing and allow interaction with it, interrupting and resuming the program directly from the graphic interface on the web browser.</p>
+<h2 style="text-align: center;"><strong>CURRENT STATUS AND FUTURE GOALS</strong></h2>
+<p>Over the years, the NPP module has been installed on more than 80 machines, belonging to different manufacturing sectors, to the great satisfaction of customers, who have been able to exploit its characteristics, taking advantage of the simplification and savings achieved. Like all other MCE applications, the NPP module is also constantly evolving. For the near future, the goal is to make it even simpler and integrated with the program generation assistance systems (CAD / CAM).  </p>
+<h6><span style="font-size: 16px;">.</span></h6>
+						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>/network-part-program-npp-anniversary/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>TOOL MANAGEMENT</title>
+		<link>/tool-management/</link>
+					<comments>/tool-management/#respond</comments>
+		
+		<dc:creator><![CDATA[digital@mcm-group.com]]></dc:creator>
+		<pubDate>Mon, 08 May 2023 09:27:31 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<guid isPermaLink="false">/tool-management/</guid>
+
+					<description><![CDATA[jFMX is equipped with special tool management policies. Visualization layout of the racks and status of the tools in jFMX is available the layout, updated in real time, of the racks contained in the plant. This view allows you to check the availability of places in the warehouse, the status of loaded tools and manipulators. ]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="3437" class="elementor elementor-3437 elementor-130" data-elementor-post-type="post">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-5e79d19a elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5e79d19a" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-774ba723" data-id="774ba723" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-dc3a556 elementor-widget elementor-widget-text-editor" data-id="dc3a556" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							
+<figure class="wp-block-image size-full is-resized">
+<h3 style="text-align: center;">VISUALIZATION LAYOUT OF THE RACKS AND STATUS OF THE TOOLS</h3>
+<p>Visualization layout of the racks and status of the tools in jFMX is available the layout, updated in real time, of the racks contained in the plant.</p>
+<p>This view allows you to check the availability of places in the warehouse, the status of loaded tools and manipulators.</p>
+<h3 style="text-align: center;">MONITORING OF TOOL USAGE STATUS</h3>
+<p>jFMX allows to improve the exploitation of tools by managing their wear, by setting a nominal life value and minimum threshold, during loading. With each machining operation, the residual life is decreased by the actual wear recorded by the NC, keeping the tool wear status constantly updated. </p>
+<p>On the basis of the production orders and the set work phases, jFMX searches for the best tools among those loaded in the rack and assigns them to the work to be performed. jFMX therefore constantly monitors the request and availability of tools in the system. </p>
+<p>The operator can query the system on the state of use of the tools present in the system and on their future request and thus have the possibility to prepare the tool park in advance. suitable for programmed work or unloaded unused ones.</p>
+<h3 style="text-align: center;">TOOL LOADING OPERATION</h3>
+<p>From an operating point of view, the supervisor assists the operator in the loading and replenishing of tools, through the automatic acquisition of all the information related to the tool, the visualization on the terminal of this information, for a possible modification by the operator, and the proposal of the best position inside the warehouse.</p>
+<p>jFMX is able to manage different information related to the tool; the most important are: its coding, size, geometric correctors, status, life and critical threshold, request for length and operator presence control, default technological data (progress, speed and power monitor section)</p>
+<p>If the tools are equipped with memory chips (eg Balluff pad), when the tool is loaded,</p>
+<p>jFMX displays the information already written in the associated tablet. JFMX is also prepared for integration with any installed Tool Rool management software. at the customers.</p>
+<h3 style="text-align: center;">TOOL UNLOADING OPERATION</h3>
+<p>The operator can query the supervisor to find out the tools to be unloaded. jFMX provides the list of tools worn, broken, or not required by any machining. </p>
+<p>By simply pressing the unload button of the selected tool, the manipulator unloading movement starts.</p>
+</figure>
+						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>/tool-management/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>PRODUCTION EXECUTION</title>
+		<link>/production-execution/</link>
+					<comments>/production-execution/#respond</comments>
+		
+		<dc:creator><![CDATA[digital@mcm-group.com]]></dc:creator>
+		<pubDate>Mon, 08 May 2023 09:27:30 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<guid isPermaLink="false">/production-execution/</guid>
+
+					<description><![CDATA[The production execution of the single MCM production cell are coordinated by the jFMX supervision software that selects the work to be carried out on the basis of the workability and the urgency of the individual codes.]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="3453" class="elementor elementor-3453 elementor-129" data-elementor-post-type="post">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-7e939c9a elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="7e939c9a" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-29198625" data-id="29198625" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-7767ae26 elementor-widget elementor-widget-text-editor" data-id="7767ae26" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<figure class="wp-block-image size-full is-resized">
+<p>The production execution can be managed manually by acting on the activation of production tasks, priority parameters and enabling production units.</p>
+<p>Alternatively <strong>jFMX</strong> can use a set production plan (automatically through the production planning service or manually by the production manager) to independently manage production.</p>
+<p>The objective of respecting the indications provided by the plan, <strong>jFMX</strong> creates and deletes the production tasks related to the work to be carried out and dynamically changes the status, the priority and the enabling of the units.</p>
+<p>The supervisor also indicates to the operator the resources necessary for the production execution set in terms of: parts, tools, equipment and programs, highlighting those to be prepared in different shifts.</p>
+<p>The association of production tasks with the equipment present in the system, activates the automatic management of the workings. This performs the verification of the availability of the resources, the handling of the pallets and the execution of the workings, in total autonomy.</p>
+<p>If the production plan foresees it, <strong>jFMX</strong> is able to manage the load of the pieces during the manned shift and to postpone the processing to the unattended one. </p>
+</figure>
+						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>/production-execution/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>JFMX SOFTWARE: MONITORING AND STATUS DISPLAY</title>
+		<link>/jfmx-software-monitoring-and-status-display/</link>
+					<comments>/jfmx-software-monitoring-and-status-display/#respond</comments>
+		
+		<dc:creator><![CDATA[Annalisa Di Maria]]></dc:creator>
+		<pubDate>Fri, 05 May 2023 10:15:00 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<guid isPermaLink="false">/jfmx-software-monitoring-and-status-display/</guid>
+
+					<description><![CDATA[Monitoring and status dispaly The jFMX software allows monitoring and display of the status of the real-time system of all the activities performed on the plant. ]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="3439" class="elementor elementor-3439 elementor-529" data-elementor-post-type="post">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-806b060 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="806b060" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-faf407e" data-id="faf407e" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-7179041 elementor-widget elementor-widget-text-editor" data-id="7179041" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p></p>
+<h2 style="text-align: center;"><em><strong>MONITORING AND STATUS DISPLAY</strong></em></h2>
+<p>The <strong>jFMX</strong> software allows monitoring and display of the status of the real-time system of all the activities performed on the plant.<br>Thanks to web-browser-based technology, you can view the supervisor interface from stations located in the workshop and from the computer screen of your office.<br>The graphic layout, updated in real time, displays the system, showing the <strong>status of the machines</strong> and service units, the work in progress, the resources with their warehouses.<br>The use of colors translates information on the status of all the resources of the system, allowing you to view a lot of information, in limited spaces. Also the graphic screens are <strong>hypertextual.</strong><br>By selecting a layout object, you can directly access the page that describes it in detail.</p>
+<p></p>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>/jfmx-software-monitoring-and-status-display/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
