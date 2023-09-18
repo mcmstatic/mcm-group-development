@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments for MCM Group	</title>
-	<atom:link href="/it//comments/feed/" rel="self" type="application/rss+xml" />
-	<link>/it//</link>
+	<atom:link href="//comments/feed/" rel="self" type="application/rss+xml" />
+	<link>//</link>
 	<description></description>
 	<lastBuildDate>Mon, 18 Sep 2023 09:06:34 +0000</lastBuildDate>
 	<sy:updatePeriod>

@@ -1,303 +1,303 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/it//main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>/it//</loc>
+		<loc>//</loc>
 		<lastmod>2023-09-18T07:45:37+00:00</lastmod>
 		<image:image>
-			<image:loc>/it//wp-content/uploads/2023/05/Sede-MCM-1024x768.jpg</image:loc>
+			<image:loc>//wp-content/uploads/2023/05/Sede-MCM-1024x768.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/it//wp-content/uploads/2023/05/Sede-MCM-1024x768.jpg</image:loc>
+			<image:loc>//wp-content/uploads/2023/05/Sede-MCM-1024x768.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/it//wp-content/uploads/2023/05/Software-for-manufacturing-1024x696.png</image:loc>
+			<image:loc>//wp-content/uploads/2023/05/Software-for-manufacturing-1024x696.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/it//wp-content/uploads/2023/05/Software-for-manufacturing-1024x696.png</image:loc>
+			<image:loc>//wp-content/uploads/2023/05/Software-for-manufacturing-1024x696.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/it//wp-content/uploads/2023/05/MCM_newsletter-Colgar-3x2-1.jpg</image:loc>
+			<image:loc>//wp-content/uploads/2023/05/MCM_newsletter-Colgar-3x2-1.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/it//wp-content/uploads/2023/05/MCM_newsletter-Colgar-3x2-1.jpg</image:loc>
+			<image:loc>//wp-content/uploads/2023/05/MCM_newsletter-Colgar-3x2-1.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/it//mcm-machining-centers-manufacturing/</loc>
+		<loc>//mcm-machining-centers-manufacturing/</loc>
 		<lastmod>2023-09-18T08:14:00+00:00</lastmod>
 		<image:image>
-			<image:loc>/it//wp-content/uploads/2023/09/EN-4.png</image:loc>
+			<image:loc>//wp-content/uploads/2023/09/EN-4.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/it//wp-content/uploads/2023/09/Progetto-senza-titolo-21-1024x683.png</image:loc>
+			<image:loc>//wp-content/uploads/2023/09/Progetto-senza-titolo-21-1024x683.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/it//wp-content/uploads/2023/09/Progetto-senza-titolo-21-1024x683.png</image:loc>
+			<image:loc>//wp-content/uploads/2023/09/Progetto-senza-titolo-21-1024x683.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/it//wp-content/uploads/2023/05/Progetto-senza-titolo-22-1024x683.jpg</image:loc>
+			<image:loc>//wp-content/uploads/2023/05/Progetto-senza-titolo-22-1024x683.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/it//wp-content/uploads/2023/05/Progetto-senza-titolo-22-1024x683.jpg</image:loc>
+			<image:loc>//wp-content/uploads/2023/05/Progetto-senza-titolo-22-1024x683.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/it//wp-content/uploads/2023/05/Progetto-senza-titolo-23-1024x683.jpg</image:loc>
+			<image:loc>//wp-content/uploads/2023/05/Progetto-senza-titolo-23-1024x683.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/it//wp-content/uploads/2023/05/Progetto-senza-titolo-23-1024x683.jpg</image:loc>
+			<image:loc>//wp-content/uploads/2023/05/Progetto-senza-titolo-23-1024x683.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/it//wp-content/uploads/2023/05/Progetto-senza-titolo-24-1024x683.jpg</image:loc>
+			<image:loc>//wp-content/uploads/2023/05/Progetto-senza-titolo-24-1024x683.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/it//wp-content/uploads/2023/05/Progetto-senza-titolo-24-1024x683.jpg</image:loc>
+			<image:loc>//wp-content/uploads/2023/05/Progetto-senza-titolo-24-1024x683.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/it//prodotti/?lang=it</loc>
+		<loc>//prodotti/?lang=it</loc>
 		<lastmod>2023-09-15T15:01:11+00:00</lastmod>
 		<image:image>
-			<image:loc>/it//wp-content/uploads/2023/09/Clock1200EVO-MP9-1024x753.jpg</image:loc>
+			<image:loc>//wp-content/uploads/2023/09/Clock1200EVO-MP9-1024x753.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/it//wp-content/uploads/2023/09/Clock1200EVO-MP9-1024x753.jpg</image:loc>
+			<image:loc>//wp-content/uploads/2023/09/Clock1200EVO-MP9-1024x753.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/it//wp-content/uploads/2023/08/4-1024x683.png</image:loc>
+			<image:loc>//wp-content/uploads/2023/08/4-1024x683.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/it//wp-content/uploads/2023/08/5-1024x683.png</image:loc>
+			<image:loc>//wp-content/uploads/2023/08/5-1024x683.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/it//wp-content/uploads/2023/08/5-1024x683.png</image:loc>
+			<image:loc>//wp-content/uploads/2023/08/5-1024x683.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/it//wp-content/uploads/2023/09/Immagine-2023-09-15-084601-1024x555.jpg</image:loc>
+			<image:loc>//wp-content/uploads/2023/09/Immagine-2023-09-15-084601-1024x555.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/it//wp-content/uploads/2023/09/jFMX_Layout-0-1024x675.jpg</image:loc>
+			<image:loc>//wp-content/uploads/2023/09/jFMX_Layout-0-1024x675.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/it//wp-content/uploads/2023/08/8-1024x683.png</image:loc>
+			<image:loc>//wp-content/uploads/2023/08/8-1024x683.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/it//products/</loc>
+		<loc>//products/</loc>
 		<lastmod>2023-09-15T15:00:48+00:00</lastmod>
 		<image:image>
-			<image:loc>/it//wp-content/uploads/2023/09/Clock1200EVO-MP9-1024x753.jpg</image:loc>
+			<image:loc>//wp-content/uploads/2023/09/Clock1200EVO-MP9-1024x753.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/it//wp-content/uploads/2023/09/Clock1200EVO-MP9-1024x753.jpg</image:loc>
+			<image:loc>//wp-content/uploads/2023/09/Clock1200EVO-MP9-1024x753.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/it//wp-content/uploads/2023/08/4-1024x683.png</image:loc>
+			<image:loc>//wp-content/uploads/2023/08/4-1024x683.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/it//wp-content/uploads/2023/08/5-1024x683.png</image:loc>
+			<image:loc>//wp-content/uploads/2023/08/5-1024x683.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/it//wp-content/uploads/2023/08/5-1024x683.png</image:loc>
+			<image:loc>//wp-content/uploads/2023/08/5-1024x683.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/it//wp-content/uploads/2023/09/Immagine-2023-09-15-084601-1024x555.jpg</image:loc>
+			<image:loc>//wp-content/uploads/2023/09/Immagine-2023-09-15-084601-1024x555.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/it//wp-content/uploads/2023/09/jFMX_Layout-0-1024x675.jpg</image:loc>
+			<image:loc>//wp-content/uploads/2023/09/jFMX_Layout-0-1024x675.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/it//wp-content/uploads/2023/08/8-1024x683.png</image:loc>
+			<image:loc>//wp-content/uploads/2023/08/8-1024x683.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/it//colgar/</loc>
+		<loc>//colgar/</loc>
 		<lastmod>2023-09-15T14:59:05+00:00</lastmod>
 		<image:image>
-			<image:loc>/it//wp-content/uploads/2023/05/presse-di-grandi-dimensioni-customizzate.svg</image:loc>
+			<image:loc>//wp-content/uploads/2023/05/presse-di-grandi-dimensioni-customizzate.svg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/it//wp-content/uploads/2023/05/presse-tecnologiche.svg</image:loc>
+			<image:loc>//wp-content/uploads/2023/05/presse-tecnologiche.svg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/it//wp-content/uploads/2023/05/applicazioni.svg</image:loc>
+			<image:loc>//wp-content/uploads/2023/05/applicazioni.svg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/it//wp-content/uploads/2023/05/centri-di-taglio-automatici.svg</image:loc>
+			<image:loc>//wp-content/uploads/2023/05/centri-di-taglio-automatici.svg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/it//wp-content/uploads/2023/05/MCM_newsletter-Colgar-3x2-1.jpg</image:loc>
+			<image:loc>//wp-content/uploads/2023/05/MCM_newsletter-Colgar-3x2-1.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/it//wp-content/uploads/2023/05/MCM_newsletter-Colgar-3x2-1.jpg</image:loc>
+			<image:loc>//wp-content/uploads/2023/05/MCM_newsletter-Colgar-3x2-1.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/it//wp-content/uploads/2023/05/tech.jpg</image:loc>
+			<image:loc>//wp-content/uploads/2023/05/tech.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/it//wp-content/uploads/2023/05/tech.jpg</image:loc>
+			<image:loc>//wp-content/uploads/2023/05/tech.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/it//wp-content/uploads/2023/05/applicazioni_resized-768x480.jpg</image:loc>
+			<image:loc>//wp-content/uploads/2023/05/applicazioni_resized-768x480.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/it//wp-content/uploads/2023/05/applicazioni_resized-768x480.jpg</image:loc>
+			<image:loc>//wp-content/uploads/2023/05/applicazioni_resized-768x480.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/it//wp-content/uploads/2023/05/auto-cut-center.jpg</image:loc>
+			<image:loc>//wp-content/uploads/2023/05/auto-cut-center.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/it//wp-content/uploads/2023/05/auto-cut-center.jpg</image:loc>
+			<image:loc>//wp-content/uploads/2023/05/auto-cut-center.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/it//colgar/?lang=it</loc>
+		<loc>//colgar/?lang=it</loc>
 		<lastmod>2023-09-15T14:58:16+00:00</lastmod>
 		<image:image>
-			<image:loc>/it//wp-content/uploads/2023/05/presse-di-grandi-dimensioni-customizzate.svg</image:loc>
+			<image:loc>//wp-content/uploads/2023/05/presse-di-grandi-dimensioni-customizzate.svg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/it//wp-content/uploads/2023/05/presse-tecnologiche.svg</image:loc>
+			<image:loc>//wp-content/uploads/2023/05/presse-tecnologiche.svg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/it//wp-content/uploads/2023/05/applicazioni.svg</image:loc>
+			<image:loc>//wp-content/uploads/2023/05/applicazioni.svg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/it//wp-content/uploads/2023/05/centri-di-taglio-automatici.svg</image:loc>
+			<image:loc>//wp-content/uploads/2023/05/centri-di-taglio-automatici.svg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/it//wp-content/uploads/2023/05/MCM_newsletter-Colgar-3x2-1.jpg</image:loc>
+			<image:loc>//wp-content/uploads/2023/05/MCM_newsletter-Colgar-3x2-1.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/it//wp-content/uploads/2023/05/MCM_newsletter-Colgar-3x2-1.jpg</image:loc>
+			<image:loc>//wp-content/uploads/2023/05/MCM_newsletter-Colgar-3x2-1.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/it//wp-content/uploads/2023/05/tech.jpg</image:loc>
+			<image:loc>//wp-content/uploads/2023/05/tech.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/it//wp-content/uploads/2023/05/tech.jpg</image:loc>
+			<image:loc>//wp-content/uploads/2023/05/tech.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/it//wp-content/uploads/2023/05/applicazioni_resized-768x480.jpg</image:loc>
+			<image:loc>//wp-content/uploads/2023/05/applicazioni_resized-768x480.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/it//wp-content/uploads/2023/05/applicazioni_resized-768x480.jpg</image:loc>
+			<image:loc>//wp-content/uploads/2023/05/applicazioni_resized-768x480.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/it//wp-content/uploads/2023/05/auto-cut-center.jpg</image:loc>
+			<image:loc>//wp-content/uploads/2023/05/auto-cut-center.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/it//wp-content/uploads/2023/05/auto-cut-center.jpg</image:loc>
+			<image:loc>//wp-content/uploads/2023/05/auto-cut-center.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/it//mce-solutions/</loc>
+		<loc>//mce-solutions/</loc>
 		<lastmod>2023-09-15T14:57:41+00:00</lastmod>
 		<image:image>
-			<image:loc>/it//wp-content/uploads/2023/05/Progetto-senza-titolo-8-300x131.png</image:loc>
+			<image:loc>//wp-content/uploads/2023/05/Progetto-senza-titolo-8-300x131.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/it//wp-content/uploads/2023/05/bg-eurocopter-1024x683.webp</image:loc>
+			<image:loc>//wp-content/uploads/2023/05/bg-eurocopter-1024x683.webp</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/it//wp-content/uploads/2023/05/bg-eurocopter-1024x683.webp</image:loc>
+			<image:loc>//wp-content/uploads/2023/05/bg-eurocopter-1024x683.webp</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/it//wp-content/uploads/2023/05/bg_eurocopter_01-1024x683.webp</image:loc>
+			<image:loc>//wp-content/uploads/2023/05/bg_eurocopter_01-1024x683.webp</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/it//wp-content/uploads/2023/05/bg_eurocopter_01-1024x683.webp</image:loc>
+			<image:loc>//wp-content/uploads/2023/05/bg_eurocopter_01-1024x683.webp</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/it//wp-content/uploads/2023/05/bg_altro_prod-1024x681.webp</image:loc>
+			<image:loc>//wp-content/uploads/2023/05/bg_altro_prod-1024x681.webp</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/it//wp-content/uploads/2023/05/bg_altro_prod-1024x681.webp</image:loc>
+			<image:loc>//wp-content/uploads/2023/05/bg_altro_prod-1024x681.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/it//mce/?lang=it</loc>
+		<loc>//mce/?lang=it</loc>
 		<lastmod>2023-09-15T14:54:49+00:00</lastmod>
 		<image:image>
-			<image:loc>/it//wp-content/uploads/2023/05/Progetto-senza-titolo-8-300x131.png</image:loc>
+			<image:loc>//wp-content/uploads/2023/05/Progetto-senza-titolo-8-300x131.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/it//wp-content/uploads/2023/05/bg-eurocopter-1024x683.webp</image:loc>
+			<image:loc>//wp-content/uploads/2023/05/bg-eurocopter-1024x683.webp</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/it//wp-content/uploads/2023/05/bg-eurocopter-1024x683.webp</image:loc>
+			<image:loc>//wp-content/uploads/2023/05/bg-eurocopter-1024x683.webp</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/it//wp-content/uploads/2023/05/bg_eurocopter_01-1024x683.webp</image:loc>
+			<image:loc>//wp-content/uploads/2023/05/bg_eurocopter_01-1024x683.webp</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/it//wp-content/uploads/2023/05/bg_eurocopter_01-1024x683.webp</image:loc>
+			<image:loc>//wp-content/uploads/2023/05/bg_eurocopter_01-1024x683.webp</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/it//wp-content/uploads/2023/05/bg_altro_prod-1024x681.webp</image:loc>
+			<image:loc>//wp-content/uploads/2023/05/bg_altro_prod-1024x681.webp</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/it//wp-content/uploads/2023/05/bg_altro_prod-1024x681.webp</image:loc>
+			<image:loc>//wp-content/uploads/2023/05/bg_altro_prod-1024x681.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/it//contatti/?lang=it</loc>
+		<loc>//contatti/?lang=it</loc>
 		<lastmod>2023-09-15T14:49:52+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/it//home-page/?lang=it</loc>
+		<loc>//home-page/?lang=it</loc>
 		<lastmod>2023-09-15T14:47:40+00:00</lastmod>
 		<image:image>
-			<image:loc>/it//wp-content/uploads/2023/05/Sede-MCM-1024x768.jpg</image:loc>
+			<image:loc>//wp-content/uploads/2023/05/Sede-MCM-1024x768.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/it//wp-content/uploads/2023/05/Sede-MCM-1024x768.jpg</image:loc>
+			<image:loc>//wp-content/uploads/2023/05/Sede-MCM-1024x768.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/it//wp-content/uploads/2023/05/Software-for-manufacturing-1024x696.png</image:loc>
+			<image:loc>//wp-content/uploads/2023/05/Software-for-manufacturing-1024x696.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/it//wp-content/uploads/2023/05/Software-for-manufacturing-1024x696.png</image:loc>
+			<image:loc>//wp-content/uploads/2023/05/Software-for-manufacturing-1024x696.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/it//wp-content/uploads/2023/05/MCM_newsletter-Colgar-3x2-1.jpg</image:loc>
+			<image:loc>//wp-content/uploads/2023/05/MCM_newsletter-Colgar-3x2-1.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/it//wp-content/uploads/2023/05/MCM_newsletter-Colgar-3x2-1.jpg</image:loc>
+			<image:loc>//wp-content/uploads/2023/05/MCM_newsletter-Colgar-3x2-1.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/it//mcm/?lang=it</loc>
+		<loc>//mcm/?lang=it</loc>
 		<lastmod>2023-09-15T14:18:55+00:00</lastmod>
 		<image:image>
-			<image:loc>/it//wp-content/uploads/2023/05/Blue-Technical-Roadmap-Brainstorm.jpg</image:loc>
+			<image:loc>//wp-content/uploads/2023/05/Blue-Technical-Roadmap-Brainstorm.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/it//wp-content/uploads/2023/09/Progetto-senza-titolo-21-1024x683.png</image:loc>
+			<image:loc>//wp-content/uploads/2023/09/Progetto-senza-titolo-21-1024x683.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/it//wp-content/uploads/2023/09/Progetto-senza-titolo-21-1024x683.png</image:loc>
+			<image:loc>//wp-content/uploads/2023/09/Progetto-senza-titolo-21-1024x683.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/it//wp-content/uploads/2023/05/Progetto-senza-titolo-22-1024x683.jpg</image:loc>
+			<image:loc>//wp-content/uploads/2023/05/Progetto-senza-titolo-22-1024x683.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/it//wp-content/uploads/2023/05/Progetto-senza-titolo-22-1024x683.jpg</image:loc>
+			<image:loc>//wp-content/uploads/2023/05/Progetto-senza-titolo-22-1024x683.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/it//wp-content/uploads/2023/05/Progetto-senza-titolo-23-1024x683.jpg</image:loc>
+			<image:loc>//wp-content/uploads/2023/05/Progetto-senza-titolo-23-1024x683.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/it//wp-content/uploads/2023/05/Progetto-senza-titolo-23-1024x683.jpg</image:loc>
+			<image:loc>//wp-content/uploads/2023/05/Progetto-senza-titolo-23-1024x683.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/it//wp-content/uploads/2023/05/Progetto-senza-titolo-24-1024x683.jpg</image:loc>
+			<image:loc>//wp-content/uploads/2023/05/Progetto-senza-titolo-24-1024x683.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/it//wp-content/uploads/2023/05/Progetto-senza-titolo-24-1024x683.jpg</image:loc>
+			<image:loc>//wp-content/uploads/2023/05/Progetto-senza-titolo-24-1024x683.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/it//contacts/</loc>
+		<loc>//contacts/</loc>
 		<lastmod>2023-09-07T15:06:18+00:00</lastmod>
 	</url>
 </urlset>

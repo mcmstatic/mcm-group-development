@@ -9,8 +9,8 @@
 
 <channel>
 	<title>MCM Group</title>
-	<atom:link href="/it//feed/" rel="self" type="application/rss+xml" />
-	<link>/it//</link>
+	<atom:link href="//feed/" rel="self" type="application/rss+xml" />
+	<link>//</link>
 	<description></description>
 	<lastBuildDate>Fri, 08 Sep 2023 15:40:37 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,21 +21,21 @@
 	
 
 <image>
-	<url>/it//wp-content/uploads/2023/05/Neutro-Elegante-Semplice-Marchio-Personale-Logo-2-150x150.jpg</url>
+	<url>//wp-content/uploads/2023/05/Neutro-Elegante-Semplice-Marchio-Personale-Logo-2-150x150.jpg</url>
 	<title>MCM Group</title>
-	<link>/it//</link>
+	<link>//</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>PREDICTIVE MAINTENANCE ON CLOUD MINDSPHERE</title>
-		<link>/it//predictive-maintenance-on-cloud-mindsphere/</link>
-					<comments>/it//predictive-maintenance-on-cloud-mindsphere/#respond</comments>
+		<link>//predictive-maintenance-on-cloud-mindsphere/</link>
+					<comments>//predictive-maintenance-on-cloud-mindsphere/#respond</comments>
 		
 		<dc:creator><![CDATA[Annalisa Di Maria]]></dc:creator>
 		<pubDate>Mon, 08 May 2023 11:35:53 +0000</pubDate>
 				<category><![CDATA[Blog]]></category>
-		<guid isPermaLink="false">/it//predictive-maintenance-on-cloud-mindsphere/</guid>
+		<guid isPermaLink="false">//predictive-maintenance-on-cloud-mindsphere/</guid>
 
 					<description><![CDATA[On the occasion of the BI-MU fair in Milan, MCE presented a new and interesting application, concerning Predictive Maintenance on Cloud MindSphere, developed on the cloud platform in collaboration with the 40Factory company. PREDICTIVE MAINTENANCE ON CLOUD MINDSPHERE: ]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="3410" class="elementor elementor-3410 elementor-139" data-elementor-post-type="post">
@@ -77,20 +77,20 @@
 							</div>
 		]]></content:encoded>
 					
-					<wfw:commentRss>/it//predictive-maintenance-on-cloud-mindsphere/feed/</wfw:commentRss>
+					<wfw:commentRss>//predictive-maintenance-on-cloud-mindsphere/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>MCM EUROPEAN SHAREWORK PROJECT</title>
-		<link>/it//mcm-european-sharework-project/</link>
-					<comments>/it//mcm-european-sharework-project/#respond</comments>
+		<link>//mcm-european-sharework-project/</link>
+					<comments>//mcm-european-sharework-project/#respond</comments>
 		
 		<dc:creator><![CDATA[digital@mcm-group.com]]></dc:creator>
 		<pubDate>Mon, 08 May 2023 09:27:32 +0000</pubDate>
 				<category><![CDATA[Blog]]></category>
-		<guid isPermaLink="false">/it//mcm-european-sharework-project/</guid>
+		<guid isPermaLink="false">//mcm-european-sharework-project/</guid>
 
 					<description><![CDATA[The MCM European Sharework project will bring a new smart system to the market integrated by different software modules, with the aim of driving collaborative work between operators and robots without need for physical protection barriers, thereby boosting process productivity and improving the ergonomics of those workstations where it is implemented.]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="3435" class="elementor elementor-3435 elementor-136" data-elementor-post-type="post">
@@ -109,20 +109,20 @@
 							</div>
 		]]></content:encoded>
 					
-					<wfw:commentRss>/it//mcm-european-sharework-project/feed/</wfw:commentRss>
+					<wfw:commentRss>//mcm-european-sharework-project/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>MACHINE DATA MONITORING AND PREDICTIVE MAINTENANCE</title>
-		<link>/it//machine-data-monitoring-and-predictive-maintenance/</link>
-					<comments>/it//machine-data-monitoring-and-predictive-maintenance/#respond</comments>
+		<link>//machine-data-monitoring-and-predictive-maintenance/</link>
+					<comments>//machine-data-monitoring-and-predictive-maintenance/#respond</comments>
 		
 		<dc:creator><![CDATA[digital@mcm-group.com]]></dc:creator>
 		<pubDate>Mon, 08 May 2023 09:27:32 +0000</pubDate>
 				<category><![CDATA[Blog]]></category>
-		<guid isPermaLink="false">/it//machine-data-monitoring-and-predictive-maintenance/</guid>
+		<guid isPermaLink="false">//machine-data-monitoring-and-predictive-maintenance/</guid>
 
 					<description><![CDATA[To complete the FMS plant management solution, MCM recently developed a new machine data monitoring and predictive maintenance system, composed of different sensors and the Edge jNODE FR device on which MCE, the group’s IT division, has implemented the jFRX software. for high frequency collection and aggregation of machine data.]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="3433" class="elementor elementor-3433 elementor-137" data-elementor-post-type="post">
@@ -156,20 +156,20 @@
 							</div>
 		]]></content:encoded>
 					
-					<wfw:commentRss>/it//machine-data-monitoring-and-predictive-maintenance/feed/</wfw:commentRss>
+					<wfw:commentRss>//machine-data-monitoring-and-predictive-maintenance/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>NETWORK PART PROGRAM (NPP) ANNIVERSARY</title>
-		<link>/it//network-part-program-npp-anniversary/</link>
-					<comments>/it//network-part-program-npp-anniversary/#respond</comments>
+		<link>//network-part-program-npp-anniversary/</link>
+					<comments>//network-part-program-npp-anniversary/#respond</comments>
 		
 		<dc:creator><![CDATA[digital@mcm-group.com]]></dc:creator>
 		<pubDate>Mon, 08 May 2023 09:27:32 +0000</pubDate>
 				<category><![CDATA[Blog]]></category>
-		<guid isPermaLink="false">/it//network-part-program-npp-anniversary/</guid>
+		<guid isPermaLink="false">//network-part-program-npp-anniversary/</guid>
 
 					<description><![CDATA[On the occasion of the 15 years since the first installation of the Network Part Program (NPP) module, we make a brief history of the functionality that represented a real revolution in the execution and management of the machining of the pieces, performed on numerically controlled work centers.]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="3414" class="elementor elementor-3414 elementor-138" data-elementor-post-type="post">
@@ -219,20 +219,20 @@
 							</div>
 		]]></content:encoded>
 					
-					<wfw:commentRss>/it//network-part-program-npp-anniversary/feed/</wfw:commentRss>
+					<wfw:commentRss>//network-part-program-npp-anniversary/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>TOOL MANAGEMENT</title>
-		<link>/it//tool-management/</link>
-					<comments>/it//tool-management/#respond</comments>
+		<link>//tool-management/</link>
+					<comments>//tool-management/#respond</comments>
 		
 		<dc:creator><![CDATA[digital@mcm-group.com]]></dc:creator>
 		<pubDate>Mon, 08 May 2023 09:27:31 +0000</pubDate>
 				<category><![CDATA[Blog]]></category>
-		<guid isPermaLink="false">/it//tool-management/</guid>
+		<guid isPermaLink="false">//tool-management/</guid>
 
 					<description><![CDATA[jFMX is equipped with special tool management policies. Visualization layout of the racks and status of the tools in jFMX is available the layout, updated in real time, of the racks contained in the plant. This view allows you to check the availability of places in the warehouse, the status of loaded tools and manipulators. ]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="3437" class="elementor elementor-3437 elementor-130" data-elementor-post-type="post">
@@ -269,20 +269,20 @@
 							</div>
 		]]></content:encoded>
 					
-					<wfw:commentRss>/it//tool-management/feed/</wfw:commentRss>
+					<wfw:commentRss>//tool-management/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>PRODUCTION EXECUTION</title>
-		<link>/it//production-execution/</link>
-					<comments>/it//production-execution/#respond</comments>
+		<link>//production-execution/</link>
+					<comments>//production-execution/#respond</comments>
 		
 		<dc:creator><![CDATA[digital@mcm-group.com]]></dc:creator>
 		<pubDate>Mon, 08 May 2023 09:27:30 +0000</pubDate>
 				<category><![CDATA[Blog]]></category>
-		<guid isPermaLink="false">/it//production-execution/</guid>
+		<guid isPermaLink="false">//production-execution/</guid>
 
 					<description><![CDATA[The production execution of the single MCM production cell are coordinated by the jFMX supervision software that selects the work to be carried out on the basis of the workability and the urgency of the individual codes.]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="3453" class="elementor elementor-3453 elementor-129" data-elementor-post-type="post">
@@ -309,20 +309,20 @@
 							</div>
 		]]></content:encoded>
 					
-					<wfw:commentRss>/it//production-execution/feed/</wfw:commentRss>
+					<wfw:commentRss>//production-execution/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>JFMX SOFTWARE: MONITORING AND STATUS DISPLAY</title>
-		<link>/it//jfmx-software-monitoring-and-status-display/</link>
-					<comments>/it//jfmx-software-monitoring-and-status-display/#respond</comments>
+		<link>//jfmx-software-monitoring-and-status-display/</link>
+					<comments>//jfmx-software-monitoring-and-status-display/#respond</comments>
 		
 		<dc:creator><![CDATA[Annalisa Di Maria]]></dc:creator>
 		<pubDate>Fri, 05 May 2023 10:15:00 +0000</pubDate>
 				<category><![CDATA[Blog]]></category>
-		<guid isPermaLink="false">/it//jfmx-software-monitoring-and-status-display/</guid>
+		<guid isPermaLink="false">//jfmx-software-monitoring-and-status-display/</guid>
 
 					<description><![CDATA[Monitoring and status dispaly The jFMX software allows monitoring and display of the status of the real-time system of all the activities performed on the plant. ]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="3439" class="elementor elementor-3439 elementor-529" data-elementor-post-type="post">
@@ -344,7 +344,7 @@
 							</div>
 		]]></content:encoded>
 					
-					<wfw:commentRss>/it//jfmx-software-monitoring-and-status-display/feed/</wfw:commentRss>
+					<wfw:commentRss>//jfmx-software-monitoring-and-status-display/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
