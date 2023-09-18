@@ -1,59 +1,59 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>//mcm-european-sharework-project/</loc>
+		<loc>/mcm-european-sharework-project/</loc>
 		<lastmod>2023-09-08T15:40:37+00:00</lastmod>
 	</url>
 	<url>
-		<loc>//a-look-back-watch-the-highlights-from-our-last-conference/?lang=it</loc>
+		<loc>/a-look-back-watch-the-highlights-from-our-last-conference/?lang=it</loc>
 		<lastmod>2023-09-08T15:18:06+00:00</lastmod>
 	</url>
 	<url>
-		<loc>//jfmx-software-monitoring-and-status-display/</loc>
+		<loc>/jfmx-software-monitoring-and-status-display/</loc>
 		<lastmod>2023-09-08T15:16:29+00:00</lastmod>
 	</url>
 	<url>
-		<loc>//production-execution/</loc>
+		<loc>/production-execution/</loc>
 		<lastmod>2023-09-08T15:12:38+00:00</lastmod>
 	</url>
 	<url>
-		<loc>//tool-management/</loc>
+		<loc>/tool-management/</loc>
 		<lastmod>2023-09-08T15:09:16+00:00</lastmod>
 	</url>
 	<url>
-		<loc>//network-part-program-npp-anniversary/</loc>
+		<loc>/network-part-program-npp-anniversary/</loc>
 		<lastmod>2023-09-08T15:06:31+00:00</lastmod>
 	</url>
 	<url>
-		<loc>//monitoraggio-e-visualizzazione-dello-stato-del-sistema/?lang=it</loc>
+		<loc>/monitoraggio-e-visualizzazione-dello-stato-del-sistema/?lang=it</loc>
 		<lastmod>2023-09-08T15:05:52+00:00</lastmod>
 	</url>
 	<url>
-		<loc>//its-the-perfect-match-combine-between-fun-and-learning/?lang=it</loc>
+		<loc>/its-the-perfect-match-combine-between-fun-and-learning/?lang=it</loc>
 		<lastmod>2023-09-08T15:04:38+00:00</lastmod>
 	</url>
 	<url>
-		<loc>//learn-from-our-past-participants-and-the-way-they-change-their-life/?lang=it</loc>
+		<loc>/learn-from-our-past-participants-and-the-way-they-change-their-life/?lang=it</loc>
 		<lastmod>2023-09-08T15:02:10+00:00</lastmod>
 	</url>
 	<url>
-		<loc>//what-makes-you-a-better-lecturer-than-others/?lang=it</loc>
+		<loc>/what-makes-you-a-better-lecturer-than-others/?lang=it</loc>
 		<lastmod>2023-09-08T15:00:09+00:00</lastmod>
 	</url>
 	<url>
-		<loc>//machine-data-monitoring-and-predictive-maintenance/</loc>
+		<loc>/machine-data-monitoring-and-predictive-maintenance/</loc>
 		<lastmod>2023-09-08T14:58:38+00:00</lastmod>
 	</url>
 	<url>
-		<loc>//remember-to-write-don-summary-of-each-lecture-it-will-help-you-later/?lang=it</loc>
+		<loc>/remember-to-write-don-summary-of-each-lecture-it-will-help-you-later/?lang=it</loc>
 		<lastmod>2023-09-08T14:53:17+00:00</lastmod>
 	</url>
 	<url>
-		<loc>//data-driven-design-it-will-make-your-product-better/?lang=it</loc>
+		<loc>/data-driven-design-it-will-make-your-product-better/?lang=it</loc>
 		<lastmod>2023-09-08T14:44:34+00:00</lastmod>
 	</url>
 	<url>
-		<loc>//predictive-maintenance-on-cloud-mindsphere/</loc>
+		<loc>/predictive-maintenance-on-cloud-mindsphere/</loc>
 		<lastmod>2023-09-08T14:41:07+00:00</lastmod>
 	</url>
 </urlset>
