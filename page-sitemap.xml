@@ -29,12 +29,66 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/it/table-clock-800-evo/</loc>
-		<lastmod>2024-01-15T12:53:55+00:00</lastmod>
+		<loc>/it/prodotti/</loc>
+		<lastmod>2024-02-07T16:40:55+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/09/Clock1200EVO-MP9-1024x753.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/09/Clock1200EVO-MP9-1024x753.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/08/4-1024x683.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/08/5-1024x683.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/08/5-1024x683.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/09/Immagine-2023-09-15-084601-1024x555.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/09/jFMX_Layout-0-1024x675.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/08/8-1024x683.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/events/</loc>
+		<lastmod>2024-02-07T15:01:34+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/it/eventi/</loc>
+		<lastmod>2024-02-07T14:33:44+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/it/parlano-di-noi/</loc>
+		<lastmod>2024-01-31T17:05:09+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/01/Immagine-2024-01-29-115412-1024x639.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/01/clock-1200-evo-03-1-1024x470.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/it/whistleblowing/</loc>
+		<lastmod>2024-01-25T16:30:22+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/history/</loc>
+		<lastmod>2024-01-25T10:31:45+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/it/storia/</loc>
+		<lastmod>2024-01-25T10:28:02+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/it/prodotti-mcm/</loc>
-		<lastmod>2024-01-15T10:06:37+00:00</lastmod>
+		<lastmod>2024-01-16T08:30:12+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/05/Clock-800-EVO-Bipallet-1024x683.jpg</image:loc>
 		</image:image>
@@ -64,18 +118,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/it/eventi/</loc>
-		<lastmod>2024-01-12T16:12:58+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/events/</loc>
-		<lastmod>2024-01-12T16:12:05+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/it/whistleblowing/</loc>
-		<lastmod>2023-12-21T11:04:18+00:00</lastmod>
-	</url>
-	<url>
 		<loc>/whistleblowing/</loc>
 		<lastmod>2023-12-21T10:52:14+00:00</lastmod>
 	</url>
@@ -86,10 +128,6 @@
 	<url>
 		<loc>/events/</loc>
 		<lastmod>2023-12-13T14:48:40+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/it/storia/</loc>
-		<lastmod>2023-12-05T15:50:10+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/it/mcm/</loc>
@@ -128,10 +166,6 @@
 		<lastmod>2023-12-05T13:59:50+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/quality-policy/</loc>
-		<lastmod>2023-12-05T13:57:30+00:00</lastmod>
-	</url>
-	<url>
 		<loc>/it/mcm-spa/</loc>
 		<lastmod>2023-12-05T13:16:03+00:00</lastmod>
 		<image:image>
@@ -146,10 +180,6 @@
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/11/MCM-FRANCE-1024x755.jpg</image:loc>
 		</image:image>
-	</url>
-	<url>
-		<loc>/history/</loc>
-		<lastmod>2023-12-05T13:04:42+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/colgar-engineering/</loc>
@@ -214,34 +244,6 @@
 	<url>
 		<loc>/products/</loc>
 		<lastmod>2023-11-07T09:10:31+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/09/Clock1200EVO-MP9-1024x753.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/09/Clock1200EVO-MP9-1024x753.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/08/4-1024x683.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/08/5-1024x683.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/08/5-1024x683.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/09/Immagine-2023-09-15-084601-1024x555.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/09/jFMX_Layout-0-1024x675.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/08/8-1024x683.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/it/prodotti/</loc>
-		<lastmod>2023-11-07T09:08:30+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/09/Clock1200EVO-MP9-1024x753.jpg</image:loc>
 		</image:image>
