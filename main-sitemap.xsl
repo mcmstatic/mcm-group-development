@@ -258,3 +258,11 @@
 		</html>
 	</xsl:template>
 </xsl:stylesheet>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Lazy Loading
+
+Served from: group-mcm.it @ 2024-02-21 09:35:52 by W3 Total Cache
+-->
