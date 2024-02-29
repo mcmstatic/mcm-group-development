@@ -29,6 +29,26 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>/it/politica-per-il-sistema-di-gestione-salute-e-sicurezza-sul-lavoro/</loc>
+		<lastmod>2024-02-29T11:35:34+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/whistleblowing/</loc>
+		<lastmod>2024-02-29T11:24:06+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/it/whistleblowing/</loc>
+		<lastmod>2024-02-29T11:22:56+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/it/politica-per-la-qualita/</loc>
+		<lastmod>2024-02-29T11:10:55+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/quality-policy/</loc>
+		<lastmod>2024-02-29T11:02:28+00:00</lastmod>
+	</url>
+	<url>
 		<loc>/events/</loc>
 		<lastmod>2024-02-21T09:28:04+00:00</lastmod>
 	</url>
@@ -291,10 +311,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/it/whistleblowing/</loc>
-		<lastmod>2024-01-25T16:30:22+00:00</lastmod>
-	</url>
-	<url>
 		<loc>/history/</loc>
 		<lastmod>2024-01-25T10:31:45+00:00</lastmod>
 	</url>
@@ -334,14 +350,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/whistleblowing/</loc>
-		<lastmod>2023-12-21T10:52:14+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/it/politica-per-il-sistema-di-gestione-salute-e-sicurezza-sul-lavoro/</loc>
-		<lastmod>2023-12-21T09:17:29+00:00</lastmod>
-	</url>
-	<url>
 		<loc>/events/</loc>
 		<lastmod>2023-12-13T14:48:40+00:00</lastmod>
 	</url>
@@ -376,10 +384,6 @@
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/11/MCM-FRANCE-1024x755.jpg</image:loc>
 		</image:image>
-	</url>
-	<url>
-		<loc>/it/politica-per-la-qualita/</loc>
-		<lastmod>2023-12-05T13:59:50+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/it/mcm-spa/</loc>
@@ -638,5 +642,5 @@ Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3
 
 Lazy Loading
 
-Served from: group-mcm.it @ 2024-02-21 09:35:53 by W3 Total Cache
+Served from: group-mcm.it @ 2024-02-29 12:49:05 by W3 Total Cache
 -->

@@ -45,7 +45,7 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 						<div class="elementor-element elementor-element-44ba37a2 elementor-widget elementor-widget-text-editor" data-id="44ba37a2" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-			<style>/*! elementor - v3.19.0 - 07-02-2024 */
+			<style>/*! elementor - v3.19.0 - 28-02-2024 */
 .elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#69727d;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#69727d;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<p>
 
 
@@ -78,6 +78,69 @@
 		]]></content:encoded>
 					
 					<wfw:commentRss>/predictive-maintenance-on-cloud-mindsphere/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>NETWORK PART PROGRAM (NPP) ANNIVERSARY</title>
+		<link>/network-part-program-npp-anniversary/</link>
+					<comments>/network-part-program-npp-anniversary/#respond</comments>
+		
+		<dc:creator><![CDATA[digital@mcm-group.com]]></dc:creator>
+		<pubDate>Mon, 08 May 2023 09:27:32 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<guid isPermaLink="false">/network-part-program-npp-anniversary/</guid>
+
+					<description><![CDATA[On the occasion of the 15 years since the first installation of the Network Part Program (NPP) module, we make a brief history of the functionality that represented a real revolution in the execution and management of the machining of the pieces, performed on numerically controlled work centers.]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="3414" class="elementor elementor-3414 elementor-138" data-elementor-post-type="post">
+						<section class="elementor-section elementor-top-section elementor-element elementor-element-89332b3 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="89332b3" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-17ed8de4" data-id="17ed8de4" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-5a1658c5 elementor-widget elementor-widget-text-editor" data-id="5a1658c5" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							
+<h2 style="text-align: center;"><strong>THE IDEA OF NETWORK PART PROGRAM (NPP)</strong></h2>
+<p>The original idea was born in a European research project and the starting point was to observe that the writing language of part programs executed by CNCs (ISO 6983) obliges the programmer to rigidly fix the sequence of use of the tools, while in reality many operations are independent from each other. This paved the way for the development of an application capable of analyzing the different programs, combined with the pieces mounted on a fixture and dynamically generating a single program, to work the entire pallet, optimized with the minimum number of tool changes, table rotation and rapid movements. </p>
+<h2 style="text-align: center;"><strong>NETWORK PART PROGRAM (NPP) FUNCTIONALITY</strong></h2>
+<p>The Network Part Program (NPP) was therefore created to allow the user to create and execute programs, structured in the form of a network of elementary steps (steps). Each machining step groups geometric information related to the process characteristic and technological data. The steps are organized in a network that expresses the precedence constraints between them, due to technological reasons or to process preferences.  </p>
+<p> </p>
+<h2 style="text-align: center;"><strong>BENEFITS OF NETWORK PART PROGRAM (NPP)</strong></h2>
+<p>The advantages obtained are considerable:</p>
+<p> </p>
+<ul>
+<li>Simplification of the pallet configuration with sets of pieces also different from each other. The programmer limits himself to developing a program for each different piece mounted on the pallet and to insert the origin of the piece with respect to the center of the table </li>
+<li>Machining a subset of the configured pieces on a pallet, leaving the operator the simple possibility of marking the pieces present and absent. It is no longer necessary to enter jumps in programs or let the machine work in a vacuum </li>
+<li>Execute portions of a machining, explicitly selecting the steps to be carried out, without having to manipulate the ISO code .</li>
+<li>Resume an interrupted machining from the point at which it stopped or from a previous point, simply by specifying the resume step. Once programmed, the shooting takes place in complete safety, completely automatically, without the presence of the operator </li>
+<li>Simplification and reduction of piece testing time, especially for pallets that mount replicas of pieces</li>
+<li>Remote monitoring and understanding of machine execution even by non-programming personnel</li>
+<li>Reuse of steps (elementary operations of a tool) in programs, even in different contexts</li>
+</ul>
+<h2 style="text-align: center;"><strong>OPERATION PROCESS</strong></h2>
+<p>The NPP module is fully integrated with the jFMX plant supervisor, which has an editor for the work cycles and an executor of programs in NPP format. At each processing, the system automatically performs the following activities: </p>
+<p> </p>
+<ul>
+<li>Creation of a dynamic network based on the information of the work cycles and the selection of the pieces actually assembled, carried out by the operator at the loading / unloading station</li>
+<li>Optimization of the network associated with the pallet. When jFMX decides that the pallet must be executed by a machine of the plant, it launches an optimization process, generating a single sequence of steps, obtained by minimizing the number of tool changes, table rotations, rapid movements and laser checks. The sequence is dynamically re-evaluated if a step is not executable, for example if the tool recalled is not available at that time  </li>
+<li>Step by step execution of the sequence. The program of the entire pallet is never sent to the machine, but only the ISO portion necessary to perform the current step and for speed reasons, the next one. This greatly facilitates the possible intervention of the operators for the verification and modification of the program, which only the section of the code in execution is found in the NC memory.  </li>
+</ul>
+<p> </p>
+<p>Through this accurate control of the execution, jFMX is able to show the user the real-time status of the processing and allow interaction with it, interrupting and resuming the program directly from the graphic interface on the web browser.</p>
+<h2 style="text-align: center;"><strong>CURRENT STATUS AND FUTURE GOALS</strong></h2>
+<p>Over the years, the NPP module has been installed on more than 80 machines, belonging to different manufacturing sectors, to the great satisfaction of customers, who have been able to exploit its characteristics, taking advantage of the simplification and savings achieved. Like all other MCE applications, the NPP module is also constantly evolving. For the near future, the goal is to make it even simpler and integrated with the program generation assistance systems (CAD / CAM).  </p>
+<h6><span style="font-size: 16px;">.</span></h6>
+						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>/network-part-program-npp-anniversary/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
@@ -157,69 +220,6 @@
 		]]></content:encoded>
 					
 					<wfw:commentRss>/mcm-european-sharework-project/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>NETWORK PART PROGRAM (NPP) ANNIVERSARY</title>
-		<link>/network-part-program-npp-anniversary/</link>
-					<comments>/network-part-program-npp-anniversary/#respond</comments>
-		
-		<dc:creator><![CDATA[digital@mcm-group.com]]></dc:creator>
-		<pubDate>Mon, 08 May 2023 09:27:32 +0000</pubDate>
-				<category><![CDATA[Blog]]></category>
-		<guid isPermaLink="false">/network-part-program-npp-anniversary/</guid>
-
-					<description><![CDATA[On the occasion of the 15 years since the first installation of the Network Part Program (NPP) module, we make a brief history of the functionality that represented a real revolution in the execution and management of the machining of the pieces, performed on numerically controlled work centers.]]></description>
-										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="3414" class="elementor elementor-3414 elementor-138" data-elementor-post-type="post">
-						<section class="elementor-section elementor-top-section elementor-element elementor-element-89332b3 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="89332b3" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-17ed8de4" data-id="17ed8de4" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-						<div class="elementor-element elementor-element-5a1658c5 elementor-widget elementor-widget-text-editor" data-id="5a1658c5" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							
-<h2 style="text-align: center;"><strong>THE IDEA OF NETWORK PART PROGRAM (NPP)</strong></h2>
-<p>The original idea was born in a European research project and the starting point was to observe that the writing language of part programs executed by CNCs (ISO 6983) obliges the programmer to rigidly fix the sequence of use of the tools, while in reality many operations are independent from each other. This paved the way for the development of an application capable of analyzing the different programs, combined with the pieces mounted on a fixture and dynamically generating a single program, to work the entire pallet, optimized with the minimum number of tool changes, table rotation and rapid movements. </p>
-<h2 style="text-align: center;"><strong>NETWORK PART PROGRAM (NPP) FUNCTIONALITY</strong></h2>
-<p>The Network Part Program (NPP) was therefore created to allow the user to create and execute programs, structured in the form of a network of elementary steps (steps). Each machining step groups geometric information related to the process characteristic and technological data. The steps are organized in a network that expresses the precedence constraints between them, due to technological reasons or to process preferences.  </p>
-<p> </p>
-<h2 style="text-align: center;"><strong>BENEFITS OF NETWORK PART PROGRAM (NPP)</strong></h2>
-<p>The advantages obtained are considerable:</p>
-<p> </p>
-<ul>
-<li>Simplification of the pallet configuration with sets of pieces also different from each other. The programmer limits himself to developing a program for each different piece mounted on the pallet and to insert the origin of the piece with respect to the center of the table </li>
-<li>Machining a subset of the configured pieces on a pallet, leaving the operator the simple possibility of marking the pieces present and absent. It is no longer necessary to enter jumps in programs or let the machine work in a vacuum </li>
-<li>Execute portions of a machining, explicitly selecting the steps to be carried out, without having to manipulate the ISO code .</li>
-<li>Resume an interrupted machining from the point at which it stopped or from a previous point, simply by specifying the resume step. Once programmed, the shooting takes place in complete safety, completely automatically, without the presence of the operator </li>
-<li>Simplification and reduction of piece testing time, especially for pallets that mount replicas of pieces</li>
-<li>Remote monitoring and understanding of machine execution even by non-programming personnel</li>
-<li>Reuse of steps (elementary operations of a tool) in programs, even in different contexts</li>
-</ul>
-<h2 style="text-align: center;"><strong>OPERATION PROCESS</strong></h2>
-<p>The NPP module is fully integrated with the jFMX plant supervisor, which has an editor for the work cycles and an executor of programs in NPP format. At each processing, the system automatically performs the following activities: </p>
-<p> </p>
-<ul>
-<li>Creation of a dynamic network based on the information of the work cycles and the selection of the pieces actually assembled, carried out by the operator at the loading / unloading station</li>
-<li>Optimization of the network associated with the pallet. When jFMX decides that the pallet must be executed by a machine of the plant, it launches an optimization process, generating a single sequence of steps, obtained by minimizing the number of tool changes, table rotations, rapid movements and laser checks. The sequence is dynamically re-evaluated if a step is not executable, for example if the tool recalled is not available at that time  </li>
-<li>Step by step execution of the sequence. The program of the entire pallet is never sent to the machine, but only the ISO portion necessary to perform the current step and for speed reasons, the next one. This greatly facilitates the possible intervention of the operators for the verification and modification of the program, which only the section of the code in execution is found in the NC memory.  </li>
-</ul>
-<p> </p>
-<p>Through this accurate control of the execution, jFMX is able to show the user the real-time status of the processing and allow interaction with it, interrupting and resuming the program directly from the graphic interface on the web browser.</p>
-<h2 style="text-align: center;"><strong>CURRENT STATUS AND FUTURE GOALS</strong></h2>
-<p>Over the years, the NPP module has been installed on more than 80 machines, belonging to different manufacturing sectors, to the great satisfaction of customers, who have been able to exploit its characteristics, taking advantage of the simplification and savings achieved. Like all other MCE applications, the NPP module is also constantly evolving. For the near future, the goal is to make it even simpler and integrated with the program generation assistance systems (CAD / CAM).  </p>
-<h6><span style="font-size: 16px;">.</span></h6>
-						</div>
-				</div>
-					</div>
-		</div>
-					</div>
-		</section>
-				</div>
-		]]></content:encoded>
-					
-					<wfw:commentRss>/network-part-program-npp-anniversary/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
@@ -357,5 +357,5 @@ Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3
 
 Lazy Loading (feed)
 
-Served from: group-mcm.it @ 2024-02-21 09:38:03 by W3 Total Cache
+Served from: group-mcm.it @ 2024-02-29 12:51:18 by W3 Total Cache
 -->
