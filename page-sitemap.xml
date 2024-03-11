@@ -29,6 +29,22 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>/events/</loc>
+		<lastmod>2024-03-11T10:29:55+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/it/eventi/</loc>
+		<lastmod>2024-03-11T10:27:09+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/it/contatti-v-1/</loc>
+		<lastmod>2024-03-05T14:59:04+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/it/contatti-v-0/</loc>
+		<lastmod>2024-03-05T11:23:42+00:00</lastmod>
+	</url>
+	<url>
 		<loc>/it/politica-per-il-sistema-di-gestione-salute-e-sicurezza-sul-lavoro/</loc>
 		<lastmod>2024-02-29T11:35:34+00:00</lastmod>
 	</url>
@@ -47,14 +63,6 @@
 	<url>
 		<loc>/quality-policy/</loc>
 		<lastmod>2024-02-29T11:02:28+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/events/</loc>
-		<lastmod>2024-02-21T09:28:04+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/it/eventi/</loc>
-		<lastmod>2024-02-21T09:13:26+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/it/form-download-clock-evo/</loc>
@@ -642,5 +650,5 @@ Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3
 
 Lazy Loading
 
-Served from: group-mcm.it @ 2024-02-29 12:49:05 by W3 Total Cache
+Served from: group-mcm.it @ 2024-03-11 14:32:36 by W3 Total Cache
 -->
