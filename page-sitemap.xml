@@ -29,12 +29,68 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/it/eventi/</loc>
-		<lastmod>2024-04-03T13:25:57+00:00</lastmod>
+		<loc>/contacts/</loc>
+		<lastmod>2024-04-08T14:27:55+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/04/mcm_map_01.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/04/mcm_map_01.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/04/colgar_map_02.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/04/mcm-france_map_03.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/04/mcm-de_04.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/04/mcm_usa_05.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/04/mcm_iberica_06.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/04/mcm_china_07.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/it/contatti/</loc>
+		<lastmod>2024-04-08T14:26:29+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/04/mcm_map_01.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/04/mcm_map_01.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/04/colgar_map_02.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/04/mcm-france_map_03.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/04/mcm-de_04.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/04/mcm_usa_05.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/04/mcm_iberica_06.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/04/mcm_china_07.webp</image:loc>
+		</image:image>
 	</url>
 	<url>
 		<loc>/events/</loc>
-		<lastmod>2024-04-03T13:24:55+00:00</lastmod>
+		<lastmod>2024-04-08T14:08:39+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/it/eventi/</loc>
+		<lastmod>2024-04-08T14:06:16+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/it/aerospace/</loc>
@@ -498,14 +554,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/contacts/</loc>
-		<lastmod>2023-11-06T15:57:22+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/it/contatti/</loc>
-		<lastmod>2023-11-06T15:57:00+00:00</lastmod>
-	</url>
-	<url>
 		<loc>/it/storia-versione-anna-2-0/</loc>
 		<lastmod>2023-10-27T08:55:11+00:00</lastmod>
 	</url>
@@ -650,5 +698,5 @@ Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3
 
 Lazy Loading
 
-Served from: group-mcm.it @ 2024-04-03 13:37:58 by W3 Total Cache
+Served from: group-mcm.it @ 2024-04-08 15:10:47 by W3 Total Cache
 -->
