@@ -2,35 +2,123 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2023-12-04T11:09:17+00:00</lastmod>
+		<lastmod>2024-04-10T14:03:28+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Sede-MCM-1024x768.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2023/05/Sede-MCM-scaled.webp</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Sede-MCM-1024x768.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2023/05/Sede-MCM-scaled.webp</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Software-for-manufacturing-1024x696.png</image:loc>
+			<image:loc>/wp-content/uploads/2024/04/Software-for-manufacturing-1024x696-1.webp</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Software-for-manufacturing-1024x696.png</image:loc>
+			<image:loc>/wp-content/uploads/2024/04/Software-for-manufacturing-1024x696-1.webp</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/MCM_newsletter-Colgar-3x2-1.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2024/04/MCM_newsletter-Colgar-3x2-1.webp</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/MCM_newsletter-Colgar-3x2-1.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2024/04/MCM_newsletter-Colgar-3x2-1.webp</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/colgar_00-1024x768.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2024/04/colgar_00.webp</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2023/12/colgar_00-1024x768.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2024/04/colgar_00.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
+		<loc>/it/storia/</loc>
+		<lastmod>2024-04-15T07:51:08+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/colgar/</loc>
+		<lastmod>2024-04-15T07:31:48+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/05/presse-di-grandi-dimensioni-customizzate.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/05/presse-tecnologiche.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/05/applicazioni.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/05/centri-di-taglio-automatici.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/04/MCM_newsletter-Colgar-3x2-1.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/04/MCM_newsletter-Colgar-3x2-1.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/05/tech.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/05/tech.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/05/applicazioni_resized-768x480.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/05/applicazioni_resized-768x480.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/05/auto-cut-center.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/05/auto-cut-center.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/it/colgar/</loc>
+		<lastmod>2024-04-15T07:31:34+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/05/presse-di-grandi-dimensioni-customizzate.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/05/presse-tecnologiche.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/05/applicazioni.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/05/centri-di-taglio-automatici.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/04/MCM_newsletter-Colgar-3x2-1.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/04/MCM_newsletter-Colgar-3x2-1.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/05/tech.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/05/tech.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/05/applicazioni_resized-768x480.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/05/applicazioni_resized-768x480.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/05/auto-cut-center.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/05/auto-cut-center.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/it/jet-five/</loc>
+		<lastmod>2024-04-12T15:06:14+00:00</lastmod>
+	</url>
+	<url>
 		<loc>/contacts/</loc>
-		<lastmod>2024-04-08T14:27:55+00:00</lastmod>
+		<lastmod>2024-04-12T13:49:59+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/04/mcm_map_01.webp</image:loc>
 		</image:image>
@@ -58,7 +146,7 @@
 	</url>
 	<url>
 		<loc>/it/contatti/</loc>
-		<lastmod>2024-04-08T14:26:29+00:00</lastmod>
+		<lastmod>2024-04-12T13:35:25+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/04/mcm_map_01.webp</image:loc>
 		</image:image>
@@ -85,6 +173,178 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>/products/</loc>
+		<lastmod>2024-04-12T08:33:32+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/04/Centri-di-lavoro-orizzontali.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/04/Centri-di-lavoro-orizzontali.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/04/MIA.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/04/TECNOLOGIE-INTEGRATIVE.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/04/TECNOLOGIE-INTEGRATIVE.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/04/SUITE-PER-LA-GESTIONE-DELLA-PRODUZIONE.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/04/SUITE-DI-SUPERVISIONE.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/04/PRESS-BENDING-MACHINE.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/it/prodotti/</loc>
+		<lastmod>2024-04-12T08:05:14+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/04/Centri-di-lavoro-orizzontali.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/04/Centri-di-lavoro-orizzontali.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/04/MIA.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/04/TECNOLOGIE-INTEGRATIVE.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/04/TECNOLOGIE-INTEGRATIVE.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/04/SUITE-PER-LA-GESTIONE-DELLA-PRODUZIONE.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/04/SUITE-DI-SUPERVISIONE.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/04/PRESS-BENDING-MACHINE.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/whistleblowing/</loc>
+		<lastmod>2024-04-12T07:28:41+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/it/whistleblowing/</loc>
+		<lastmod>2024-04-12T07:27:26+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/it/politica-per-il-sistema-di-gestione-salute-e-sicurezza-sul-lavoro/</loc>
+		<lastmod>2024-04-12T07:10:27+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/policy-for-occupational-health-and-safety-management-system/</loc>
+		<lastmod>2024-04-12T07:09:43+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/quality-policy/</loc>
+		<lastmod>2024-04-11T14:33:28+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/it/politica-per-la-qualita/</loc>
+		<lastmod>2024-04-11T14:21:00+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/colgar-engineering/</loc>
+		<lastmod>2024-04-11T10:11:45+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/04/colgar_02.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/05/applicazioni.svg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/it/colgar-engineering/</loc>
+		<lastmod>2024-04-11T10:03:47+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/04/colgar_02.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/05/applicazioni.svg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/mcm-machining-centers-manufacturing/</loc>
+		<lastmod>2024-04-11T09:23:30+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/04/19_MCM-CLOCK800EVO-scaled-1.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/02/20200624_MCM-0002-Modifica_web.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/04/IMG-4135-scaled-1.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/04/MCM-FRANCE.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/it/mcm/</loc>
+		<lastmod>2024-04-11T09:19:48+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/04/19_MCM-CLOCK800EVO-scaled-1.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/02/20200624_MCM-0002-Modifica_web.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/04/IMG-4135-scaled-1.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/04/MCM-FRANCE.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/it/home-page/</loc>
+		<lastmod>2024-04-10T13:57:41+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/05/Sede-MCM-scaled.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/05/Sede-MCM-scaled.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/04/Software-for-manufacturing-1024x696-1.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/04/Software-for-manufacturing-1024x696-1.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/04/MCM_newsletter-Colgar-3x2-1.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/04/MCM_newsletter-Colgar-3x2-1.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/04/colgar_00.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/04/colgar_00.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/it/video-gallery/</loc>
+		<lastmod>2024-04-10T12:08:14+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/it/clock-overview/</loc>
+		<lastmod>2024-04-09T13:18:31+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/it/clock-800-evo/</loc>
+		<lastmod>2024-04-09T13:13:22+00:00</lastmod>
+	</url>
+	<url>
 		<loc>/events/</loc>
 		<lastmod>2024-04-08T14:08:39+00:00</lastmod>
 	</url>
@@ -103,26 +363,6 @@
 	<url>
 		<loc>/it/contatti-v-0/</loc>
 		<lastmod>2024-03-05T11:23:42+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/it/politica-per-il-sistema-di-gestione-salute-e-sicurezza-sul-lavoro/</loc>
-		<lastmod>2024-02-29T11:35:34+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/whistleblowing/</loc>
-		<lastmod>2024-02-29T11:24:06+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/it/whistleblowing/</loc>
-		<lastmod>2024-02-29T11:22:56+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/it/politica-per-la-qualita/</loc>
-		<lastmod>2024-02-29T11:10:55+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/quality-policy/</loc>
-		<lastmod>2024-02-29T11:02:28+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/it/form-download-clock-evo/</loc>
@@ -179,10 +419,6 @@
 	<url>
 		<loc>/it/componenti-industriali/</loc>
 		<lastmod>2024-02-15T08:46:01+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/it/jet-five/</loc>
-		<lastmod>2024-02-14T16:25:09+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/it/tank-1900/</loc>
@@ -245,10 +481,6 @@
 		<lastmod>2024-02-13T10:53:30+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/it/table-clock-800-evo/</loc>
-		<lastmod>2024-02-13T10:51:06+00:00</lastmod>
-	</url>
-	<url>
 		<loc>/it/clock-1200-evo/</loc>
 		<lastmod>2024-02-13T10:49:08+00:00</lastmod>
 	</url>
@@ -302,10 +534,6 @@
 		<lastmod>2024-02-09T13:51:37+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/it/clock-overview/</loc>
-		<lastmod>2024-02-09T13:51:21+00:00</lastmod>
-	</url>
-	<url>
 		<loc>/it/tank-overview/</loc>
 		<lastmod>2024-02-09T13:51:15+00:00</lastmod>
 	</url>
@@ -347,40 +575,8 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/it/prodotti/</loc>
-		<lastmod>2024-02-07T16:40:55+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/09/Clock1200EVO-MP9-1024x753.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/09/Clock1200EVO-MP9-1024x753.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/08/4-1024x683.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/08/5-1024x683.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/08/5-1024x683.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/09/Immagine-2023-09-15-084601-1024x555.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/09/jFMX_Layout-0-1024x675.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/08/8-1024x683.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/history/</loc>
 		<lastmod>2024-01-25T10:31:45+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/it/storia/</loc>
-		<lastmod>2024-01-25T10:28:02+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/it/prodotti-mcm/</loc>
@@ -418,38 +614,6 @@
 		<lastmod>2023-12-13T14:48:40+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/it/mcm/</loc>
-		<lastmod>2023-12-05T15:42:51+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/11/19_MCM-CLOCK800EVO-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/11/20200624_MCM-0002-Modifica_web-1024x634.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/11/IMG-4135-1024x821.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/11/MCM-FRANCE-1024x755.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/mcm-machining-centers-manufacturing/</loc>
-		<lastmod>2023-12-05T15:41:43+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/11/19_MCM-CLOCK800EVO-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/11/20200624_MCM-0002-Modifica_web-1024x634.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/11/IMG-4135-1024x821.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/11/MCM-FRANCE-1024x755.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/it/mcm-spa/</loc>
 		<lastmod>2023-12-05T13:16:03+00:00</lastmod>
 		<image:image>
@@ -466,92 +630,12 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/colgar-engineering/</loc>
-		<lastmod>2023-12-04T16:59:35+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/11/colgar_02.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/applicazioni.svg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/it/colgar-engineering/</loc>
-		<lastmod>2023-12-04T16:56:38+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/11/colgar_02.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/applicazioni.svg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/it/home-page/</loc>
-		<lastmod>2023-12-01T13:16:10+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Sede-MCM-1024x768.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Sede-MCM-1024x768.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Software-for-manufacturing-1024x696.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Software-for-manufacturing-1024x696.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/MCM_newsletter-Colgar-3x2-1.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/MCM_newsletter-Colgar-3x2-1.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/11/colgar_00-1024x768.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/11/colgar_00-1024x768.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/it/storia-bott-funzionanti/</loc>
 		<lastmod>2023-12-01T07:38:17+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/it/storia-prova/</loc>
 		<lastmod>2023-11-30T14:15:31+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/policy-for-occupational-health-and-safety-management-system/</loc>
-		<lastmod>2023-11-07T14:05:01+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/products/</loc>
-		<lastmod>2023-11-07T09:10:31+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/09/Clock1200EVO-MP9-1024x753.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/09/Clock1200EVO-MP9-1024x753.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/08/4-1024x683.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/08/5-1024x683.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/08/5-1024x683.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/09/Immagine-2023-09-15-084601-1024x555.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/09/jFMX_Layout-0-1024x675.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/08/8-1024x683.png</image:loc>
-		</image:image>
 	</url>
 	<url>
 		<loc>/it/storia-versione-anna-2-0/</loc>
@@ -583,46 +667,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/colgar/</loc>
-		<lastmod>2023-10-24T13:18:08+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/presse-di-grandi-dimensioni-customizzate.svg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/presse-tecnologiche.svg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/applicazioni.svg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/centri-di-taglio-automatici.svg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/MCM_newsletter-Colgar-3x2-1.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/MCM_newsletter-Colgar-3x2-1.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/tech.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/tech.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/applicazioni_resized-768x480.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/applicazioni_resized-768x480.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/auto-cut-center.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/auto-cut-center.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/mce-solutions/</loc>
 		<lastmod>2023-10-24T13:18:01+00:00</lastmod>
 		<image:image>
@@ -648,46 +692,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/it/colgar/</loc>
-		<lastmod>2023-10-24T13:14:09+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/presse-di-grandi-dimensioni-customizzate.svg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/presse-tecnologiche.svg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/applicazioni.svg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/centri-di-taglio-automatici.svg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/MCM_newsletter-Colgar-3x2-1.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/MCM_newsletter-Colgar-3x2-1.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/tech.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/tech.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/applicazioni_resized-768x480.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/applicazioni_resized-768x480.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/auto-cut-center.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/auto-cut-center.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/it/contatti-prova-con-menu-vert/</loc>
 		<lastmod>2023-10-05T13:17:20+00:00</lastmod>
 	</url>
@@ -698,5 +702,5 @@ Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3
 
 Lazy Loading
 
-Served from: group-mcm.it @ 2024-04-08 15:10:47 by W3 Total Cache
+Served from: group-mcm.it @ 2024-04-15 07:54:39 by W3 Total Cache
 -->
