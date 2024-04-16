@@ -29,12 +29,36 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/it/storia/</loc>
-		<lastmod>2024-04-15T07:51:08+00:00</lastmod>
+		<loc>/contacts/</loc>
+		<lastmod>2024-04-16T07:18:38+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/04/mcm_map_01.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/04/mcm_map_01.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/04/colgar_map_02.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/04/mcm-france_map_03.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/04/mcm-de_04.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/04/mcm_usa_05.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/04/mcm_iberica_06.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/04/mcm_china_07.webp</image:loc>
+		</image:image>
 	</url>
 	<url>
 		<loc>/colgar/</loc>
-		<lastmod>2024-04-15T07:31:48+00:00</lastmod>
+		<lastmod>2024-04-16T07:05:42+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/05/presse-di-grandi-dimensioni-customizzate.svg</image:loc>
 		</image:image>
@@ -71,6 +95,54 @@
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/05/auto-cut-center.jpg</image:loc>
 		</image:image>
+	</url>
+	<url>
+		<loc>/it/tank-1900/</loc>
+		<lastmod>2024-04-15T14:53:13+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/it/tank-overview/</loc>
+		<lastmod>2024-04-15T14:52:34+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/it/tank-1300/</loc>
+		<lastmod>2024-04-15T14:46:39+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/it/tank-1600/</loc>
+		<lastmod>2024-04-15T14:42:18+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/it/tank-1000-evo/</loc>
+		<lastmod>2024-04-15T14:36:58+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/it/centri-di-lavoro-orizzontali/</loc>
+		<lastmod>2024-04-15T14:10:14+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2023/05/Clock-800-EVO-Bipallet-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/04/Tank-evo_responsive-scaled.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/01/IMG_4127-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/01/AIRBUS-Fraisage-titane-sur-Jet-Five-MCM-999x1024.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/it/jet-five/</loc>
+		<lastmod>2024-04-15T14:06:48+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/history/</loc>
+		<lastmod>2024-04-15T13:26:53+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/it/storia/</loc>
+		<lastmod>2024-04-15T13:26:51+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/it/colgar/</loc>
@@ -110,38 +182,6 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/05/auto-cut-center.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/it/jet-five/</loc>
-		<lastmod>2024-04-12T15:06:14+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/contacts/</loc>
-		<lastmod>2024-04-12T13:49:59+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/04/mcm_map_01.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/04/mcm_map_01.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/04/colgar_map_02.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/04/mcm-france_map_03.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/04/mcm-de_04.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/04/mcm_usa_05.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/04/mcm_iberica_06.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/04/mcm_china_07.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -421,22 +461,6 @@
 		<lastmod>2024-02-15T08:46:01+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/it/tank-1900/</loc>
-		<lastmod>2024-02-14T16:14:17+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/it/tank-1600/</loc>
-		<lastmod>2024-02-14T16:12:34+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/it/tank-1300/</loc>
-		<lastmod>2024-02-14T16:11:55+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/it/tank-1000-evo/</loc>
-		<lastmod>2024-02-14T16:10:58+00:00</lastmod>
-	</url>
-	<url>
 		<loc>/it/form-download-company-profile/</loc>
 		<lastmod>2024-02-14T16:01:25+00:00</lastmod>
 	</url>
@@ -489,22 +513,6 @@
 		<lastmod>2024-02-13T10:48:16+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/it/centri-di-lavoro-orizzontali/</loc>
-		<lastmod>2024-02-12T14:04:19+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2023/05/Clock-800-EVO-Bipallet-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/01/Progetto-senza-titolo-56-1024x683.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/01/IMG_4127-1024x683.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/01/AIRBUS-Fraisage-titane-sur-Jet-Five-MCM-999x1024.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/it/tank-g-overview/</loc>
 		<lastmod>2024-02-09T16:31:32+00:00</lastmod>
 	</url>
@@ -532,10 +540,6 @@
 	<url>
 		<loc>/it/privacy-policy/</loc>
 		<lastmod>2024-02-09T13:51:37+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/it/tank-overview/</loc>
-		<lastmod>2024-02-09T13:51:15+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/it/jet-five-overview/</loc>
@@ -573,10 +577,6 @@
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/02/IMG_4053-1024x683.jpg</image:loc>
 		</image:image>
-	</url>
-	<url>
-		<loc>/history/</loc>
-		<lastmod>2024-01-25T10:31:45+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/it/prodotti-mcm/</loc>
@@ -702,5 +702,5 @@ Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3
 
 Lazy Loading
 
-Served from: group-mcm.it @ 2024-04-15 07:54:39 by W3 Total Cache
+Served from: group-mcm.it @ 2024-04-16 07:27:00 by W3 Total Cache
 -->
