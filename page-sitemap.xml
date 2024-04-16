@@ -29,36 +29,8 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/contacts/</loc>
-		<lastmod>2024-04-16T07:18:38+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/04/mcm_map_01.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/04/mcm_map_01.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/04/colgar_map_02.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/04/mcm-france_map_03.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/04/mcm-de_04.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/04/mcm_usa_05.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/04/mcm_iberica_06.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2024/04/mcm_china_07.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>/colgar/</loc>
-		<lastmod>2024-04-16T07:05:42+00:00</lastmod>
+		<lastmod>2024-04-16T07:51:06+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/05/presse-di-grandi-dimensioni-customizzate.svg</image:loc>
 		</image:image>
@@ -94,6 +66,34 @@
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2023/05/auto-cut-center.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/contacts/</loc>
+		<lastmod>2024-04-16T07:18:38+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/04/mcm_map_01.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/04/mcm_map_01.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/04/colgar_map_02.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/04/mcm-france_map_03.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/04/mcm-de_04.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/04/mcm_usa_05.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/04/mcm_iberica_06.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2024/04/mcm_china_07.webp</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -702,5 +702,5 @@ Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3
 
 Lazy Loading
 
-Served from: group-mcm.it @ 2024-04-16 07:27:00 by W3 Total Cache
+Served from: group-mcm.it @ 2024-04-16 07:54:02 by W3 Total Cache
 -->
