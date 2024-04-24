@@ -12,7 +12,7 @@
 	<atom:link href="/it/category/blog/feed/" rel="self" type="application/rss+xml" />
 	<link>/it/</link>
 	<description></description>
-	<lastBuildDate>Fri, 08 Sep 2023 15:18:06 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 17 Apr 2024 08:41:10 +0000</lastBuildDate>
 	<language>it-IT</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -45,30 +45,20 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 						<div class="elementor-element elementor-element-44ba37a2 elementor-widget elementor-widget-text-editor" data-id="44ba37a2" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-			<style>/*! elementor - v3.20.0 - 10-04-2024 */
-.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#69727d;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#69727d;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<p>
-
-
-
-</p>
+			<style>/*! elementor - v3.21.0 - 18-04-2024 */
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#69727d;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#69727d;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<p></p>
 <h2>MANUTENZIONE PREDITTIVA SU CLOUD MINDSPHERE:</h2>
-<p>
-
-</p>
+<p></p>
 <p style="text-align: justify;">Già da qualche anno MCM e la sua sezione Engineering MCE hanno intrapreso un percorso di ricerca e sviluppo nel settore della manutenzione predittiva, che sta portando interessanti ed importanti risultati. Dopo una prima fase di studio sono stati realizzati una serie di moduli ed applicazioni che costituiscono una soluzione ormai completa.</p>
-<p style="text-align: justify;">In principio sono stati sviluppati i moduli per l’interfacciamento verso le macchine, responsabili dell’acquisizione dei dati ad alta frequenza. In questo caso l’approccio è stato quello di raggruppare i dati provenienti da più sensori per ottenere un’immagine compatta e realistica delle condizioni del componente o del gruppo controllato. Una volta acquisiti i dati, sono stati sviluppati, anche in collaborazione con istituti di ricerca, degli algoritmi di data fusion e di analisi dei dati sensoriali per cercare di prevedere gli andamenti di usura dei componenti meccanici, prima che si presentino guasti e quindi episodi di arresto delle macchine. Sono state infine realizzate delle applicazioni che implementano la gestione del servizio e la visualizzazione dei risultati, consentendo agli utilizzatori di avere sempre sotto controllo lo stato aggiornato della macchina e dei loro componenti monitorati.</p>
+<p style="text-align: justify;">In principio sono stati sviluppati i moduli per l’interfacciamento verso le macchine, responsabili dell’acquisizione dei dati ad alta frequenza. In questo caso l’approccio è stato quello di raggruppare i dati provenienti da più sensori per ottenere un’immagine compatta e realistica delle condizioni del componente o del gruppo controllato. Una volta acquisiti i dati, sono stati sviluppati, anche in collaborazione con istituti di ricerca, degli algoritmi di&nbsp;data fusion&nbsp;e di analisi dei&nbsp;dati sensoriali&nbsp;per cercare di prevedere gli andamenti di usura dei componenti meccanici, prima che si presentino guasti e quindi episodi di arresto delle macchine. Sono state infine realizzate delle applicazioni che implementano la gestione del servizio e la visualizzazione dei risultati, consentendo agli utilizzatori di avere sempre sotto controllo lo stato aggiornato della macchina e dei loro componenti monitorati.</p>
 <p style="text-align: justify;">L’applicazione sviluppata si colloca proprio in questo ultimo ambito. Il modulo mostra lo stato corrente di funzionamento della macchina e lo stato di salute di tutti i componenti controllati, aggiornati in tempo reale.</p>
 <p style="text-align: justify;">L’applicazione mette anche a disposizione degli strumenti per l’analisi dei dati storici che consento di individuare facilmente possibili anomalie ed andare in dettaglio nell’approfondimento di specifiche situazioni rilevate.</p>
 <h2>AMBITO DI SVILUPPO</h2>
 <p style="text-align: justify;">Il software è stato sviluppato in ambito cloud ed in particolare si è scelta la piattaforma MindSphere proposta da Siemens. Dopo qualche esperienza di sviluppo diretto di applicazioni su cloud, si è sentita l’esigenza della presenza di una infrastruttura che garantisse affidabilità e buone prestazioni anche in presenza di grandi volumi di dati, oltre che la sicurezza sulla gestione degli accessi per gli utenti, in base a ruolo ed organizzazione. Data la scarsa conoscenza dell’infrastruttura MindSphere, MCE ha deciso di collaborare per lo sviluppo con l’azienda 40factory che, pur essendo una realtà giovane, ha maturato una buona conoscenza di questa infrastruttura. La collaborazione si è rivelata molto positiva in quanto si è potuto condividere e confrontare le diverse esperienze sviluppate su tecnologie all’avanguardia per l’analisi ed il trattamento dei dati e per la loro presentazione, tramite la creazione di interfacce e visualizzazioni web based.</p>
-<p style="text-align: justify;">Le macchine che produce MCM rimangono generalmente in servizio per più di vent’anni e quindi l’usura è molto lenta, così come la loro sostituzione.  Un sistema di manutenzione predittiva quindi risulta particolarmente conveniente perché dovrebbe consentire agli utilizzatori di sfruttare i loro mezzi di produzione durante tutto il loro ciclo di vita, mantenendo contenuti gli episodi di guasto e relativo fermo, anche in età avanzata. Anche se il sistema di manutenzione predittiva è in funzione da un tempo relativamente breve, si sta rivelando tanto efficiente da convincere MCM ad equipaggiare tutte le nuove macchine prodotte con il modulo di raccolta dati (Flight Recorder).  Parallelamente, si sta procedendo anche con la sensorizzazione delle macchine già in servizio, con magari un decennio di lavoro alle spalle e sulle quali è più interessante rilevare il degrado e la criticità dei componenti, quando effettivamente si avvicinano alla fase in cui la probabilità che si verifichino problemi aumenta.</p>
+<p style="text-align: justify;">Le macchine che produce MCM rimangono generalmente in servizio per più di vent’anni e quindi l’usura è molto lenta, così come la loro sostituzione. &nbsp;Un sistema di manutenzione predittiva quindi risulta particolarmente conveniente perché dovrebbe consentire agli utilizzatori di sfruttare i loro mezzi di produzione durante tutto il loro ciclo di vita, mantenendo contenuti gli episodi di guasto e relativo fermo, anche in età avanzata. Anche se il sistema di manutenzione predittiva è in funzione da un tempo relativamente breve, si sta rivelando tanto efficiente da convincere MCM ad equipaggiare tutte le nuove macchine prodotte con il modulo di raccolta dati (Flight Recorder). &nbsp;Parallelamente, si sta procedendo anche con la sensorizzazione delle macchine già in servizio, con magari un decennio di lavoro alle spalle e sulle quali è più interessante rilevare il degrado e la criticità dei componenti, quando effettivamente si avvicinano alla fase in cui la probabilità che si verifichino problemi aumenta.</p>
 <h2>ASPETTATIVE FUTURE</h2>
 <p style="text-align: justify;">Il lavoro svolto per la realizzazione di questa ultima applicazione consentirà di supportare nuovi servizi di manutenzione proattiva e porterà dei vantaggi sia agli utilizzatori finali degli impianti che al costruttore MCM. Gli utilizzatori avranno la possibilità di vedere e gestire i loro impianti anche da remoto, con la sicurezza sui dati e sugli accessi al cloud garantita dalla piattaforma MindSphere. Il costruttore avrà la possibilità di accedere in tempo reale a tutto il suo parco macchine installato e distribuito su tutto il pianeta. Questo gli permetterà di essere molto più efficace negli interventi di assistenza ma anche di raccogliere dati significativi sulla durata e affidabilità dei componenti che gli consentiranno di costruire macchine sempre più robuste ed affidabili.</p>
-<p>
-
-
-
-</p>						</div>
+<p></p>						</div>
 				</div>
 					</div>
 		</div>
@@ -358,5 +348,5 @@ Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3
 
 Lazy Loading (feed)
 
-Served from: group-mcm.it @ 2024-04-16 07:55:42 by W3 Total Cache
+Served from: group-mcm.it @ 2024-04-24 12:06:26 by W3 Total Cache
 -->
